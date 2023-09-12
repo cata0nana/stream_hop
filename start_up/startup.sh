@@ -5,7 +5,7 @@ pip3 install ffmpeg requests
 
 pwd
 #git config pull.ff 
-git clone https://github.com/l00ke3/lia_pro.git /root/lia_pro
+#git clone https://github.com/l00ke3/lia_pro.git /root/lia_pro
 
 
 
