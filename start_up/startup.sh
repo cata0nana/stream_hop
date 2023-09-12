@@ -1,7 +1,7 @@
 #!/bin/bash
 echo $live_user
 echo "------------------- START - UP ----------------------------"
-pip3 install ffmpeg requests
+#pip3 install ffmpeg requests
 
 pwd
 #git config pull.ff 
